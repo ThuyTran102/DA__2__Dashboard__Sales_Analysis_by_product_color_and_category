@@ -5,7 +5,7 @@
 ## Table of Contents:
 - [Project Objectives](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#project-objectives)
 - [Data Preparation](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#data-preparation)
-- [Data Preparation](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#data-modeling)
+- [Data Modeling](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#data-modeling)
 - [Data Analysis (DAX)](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#data-analysis-dax)
 - [Data Visualization (Dashboard)](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#data-visualization-dashboard)
 - [Insights](https://https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard?tab=readme-ov-file#insights)
