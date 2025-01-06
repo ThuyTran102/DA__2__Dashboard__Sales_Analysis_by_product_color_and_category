@@ -1,5 +1,5 @@
 # Sales Dashboard
-### Sales Analysis by Color and Product Category Dashboard using **Power BI**
+### Sales Analysis **by Product Color** & **Category** Dashboard using **Power BI**
 ![dashboard1](https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Sales%20Analysis%20by%20Color%20and%20Product%20Category%20(Power%20BI).png)
 
 ## Table of Contents:
