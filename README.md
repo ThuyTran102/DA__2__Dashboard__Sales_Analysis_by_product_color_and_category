@@ -21,10 +21,9 @@
 
 
 ## Data Preparation:
-- Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
-- Removed Unnecessary columns
-- Removed Unnecessary rows
-- Each of the columns in the table were validated to have the correct data type
+Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
+- Ensure all columns are formatted correctly (e.g., numeric data as decimals, dates as date types).
+- Handle missing or incorrect data using Power Query (replace, remove, or impute values).
 
 ## Data Modeling:
 After the dataset was cleaned and transformed, it was ready to be modeled.
