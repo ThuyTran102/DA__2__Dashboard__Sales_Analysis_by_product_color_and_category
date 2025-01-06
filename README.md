@@ -14,7 +14,7 @@
 
 
 ## Project Objectives:
-- Analyze sales performance across products, customers, regions, and time periods.  
+- Analyze sales performance across product colors and categories over time periods.  
 - Identify key revenue drivers and profitability trends.  
 - Support strategic decision-making through data-driven insights.  
 - Improve inventory management and marketing strategies by understanding sales patterns.
@@ -86,18 +86,18 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 ## Interpretation and Basic Analysis of each Charts 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="70%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation1.png" alt="Outcome"></img>
+<img width="75%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation1.png" alt="Outcome"></img>
 </p>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="70%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation2.png" alt="Outcome"></img>
+<img width="75%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation2.png" alt="Outcome"></img>
 </p>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="70%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation3.png" alt="Outcome"></img>
+<img width="75%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation3.png" alt="Outcome"></img>
 </p>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="70%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation4.png" alt="Outcome"></img>
+<img width="75%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation4.png" alt="Outcome"></img>
 </p>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="70%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation5.png" alt="Outcome"></img>
+<img width="75%" src="https://github.com/ThuyTran102/Sales-Analysis-by-Color-and-Product-Category_Dashboard/blob/main/images/Interpretation5.png" alt="Outcome"></img>
 </p>
 
